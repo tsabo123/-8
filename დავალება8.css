@@ -1,0 +1,145 @@
+body {
+    position: relative;
+    background: #FFFFFF;
+}
+
+table th {
+    padding: 20px;
+    background: #F9F9F9;
+    border: 1px solid #DADADA;
+    border-collapse: collapse;
+}
+.number {
+    box-sizing: border-box;
+text-align: center;
+padding: 20px;
+background: #FFFFFF;
+border: 1px solid #DADADA;
+}
+.text{
+box-sizing: border-box;
+padding: 20px;
+background: #FFFFFF;
+border: 1px solid #DADADA;
+}
+.date{
+    
+box-sizing: border-box;
+text-align: center;
+padding: 20px;
+background: #FFFFFF;
+border: 1px solid #DADADA;
+}
+.button {
+box-sizing: border-box;
+text-align: center;
+padding: 20px;
+background: #FFFFFF;
+border: 1px solid #DADADA;
+}
+.yellow{
+  
+width: 115px;
+height: 36px;
+cursor: pointer;
+border-style: hidden;
+background: #FFD43A;
+border-radius: 10px;
+}
+.red {
+   
+width: 115px;
+height: 36px;
+cursor: pointer;
+border-style: hidden;
+background: #E84949;
+border-radius: 10px;
+color: #FFFFFF;
+}
+.container {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.table2 {
+    border-collapse: collapse;
+}
+.box1 {
+box-sizing: border-box;
+width: 150px;
+padding: 20px;
+color: #EBEBEB;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+background: #FFFFFF;
+border: 1px solid #E0E0E0;
+border-radius: 10px;
+color: #EBEBEB;
+background:transparent;
+
+}
+.box2 {
+    box-sizing: border-box;
+
+
+width: 400px;
+padding: 20px;
+
+
+border: 1px solid #E0E0E0;
+border-radius: 10px;
+border-style: inherit;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+background: #FFFFFF;
+border: 1px solid #E0E0E0;
+border-radius: 10px;
+color: #EBEBEB;
+}
+.box3 {
+    box-sizing: border-box;
+    border-spacing: 20px;
+    width: 150px;
+border: 1px solid #E0E0E0;
+border-radius: 15px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+
+color: #EBEBEB;
+}
+
+.search {
+width: 115px;
+padding: 20px;
+cursor: pointer;
+border-style: hidden;
+background: #FFD43A;
+border-radius: 10px;
+}
+.border1 {
+    border: 0;
+    background: #FFFFFF;
+    border-spacing: 20px;
+}
+.container1 {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
+    
+}
+.table1{
+    border-spacing: 20px;
+}
+ 
